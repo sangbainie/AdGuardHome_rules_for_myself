@@ -1,4 +1,4 @@
-> 全球公共DNS服务器收录<https://adguard-dns.io/kb/general/dns-providers/>
+> 全球公共DNS服务器收录：<https://adguard-dns.io/kb/general/dns-providers/>
 
 # DNSPod Public DNS
 
