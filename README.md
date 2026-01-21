@@ -10,6 +10,6 @@ AdGuardHome规则存档：[规则存档](Rules)
 
 
 
-> emoji kitchen地址：<https://emojikitchen.dev/>  
+> emoji kitchen地址：<https://emojikitchen.dev/>（中国大陆地区可以用<https://emojikitchen.net/>）  
 > AdGuardHome项目地址：<https://github.com/AdguardTeam/AdGuardHome>
 
