@@ -4,5 +4,5 @@
 
 ![O_O](/image/u1f633_u1f633.png)
 > emoji kitchen地址：<https://emojikitchen.dev/>  
-AdGuardHome项目地址：[AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+AdGuardHome项目地址：<https://github.com/AdguardTeam/AdGuardHome>
 
