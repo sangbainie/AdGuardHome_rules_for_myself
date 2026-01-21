@@ -29,3 +29,5 @@ Doh|https://dns.cloudflare.com/dns-query
 IPv4|8.8.8.8 <br> 8.8.4.4
 IPv6|2001:4860:4860::8888 <br> 2001:4860:4860:8844
 Doh|https://dns.google/dns-query
+
+> 全球公共DNS服务器收录<https://adguard-dns.io/kb/general/dns-providers/>
