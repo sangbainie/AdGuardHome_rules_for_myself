@@ -8,7 +8,7 @@ Doh|<https://dns.pub/dns-query> <br> <https://sm2.doh.pub/dns-query>|<https://dn
 
 ---
 
-> 全球公共DNS服务器收录：<https://adguard-dns.io/kb/general/dns-providers/>
+> 全球热门公共DNS服务器收录：<https://adguard-dns.io/kb/general/dns-providers/>
 
 ---
 
