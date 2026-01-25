@@ -9,5 +9,4 @@ ___
 ![O_O](/image/u1f633_u1f633.png)
 ___
 > emoji kitchen地址：<https://emojikitchen.dev/>  
-（中国大陆地区可以用<https://emojikitchen.net/>）  
 > AdGuardHome项目地址：<https://github.com/AdguardTeam/AdGuardHome>
