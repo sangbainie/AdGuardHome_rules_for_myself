@@ -50,6 +50,7 @@
 !雷神加速器手游加速页面
 @@||opapi1.xxghh.biz^$important
 @@||opapi2.xxghh.biz^$important
+@@||dfs01.nn.com^$important
 !scene官网
 @@||omarea.com^$important
 !mt管理器官网
