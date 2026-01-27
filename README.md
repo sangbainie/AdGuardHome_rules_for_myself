@@ -4,7 +4,7 @@
 Android端Magisk模块项目地址：<https://github.com/JGeek00/adguard-home-manager>
 
 常用的DNS地址👉[DNS](DNS.md)  
-AdGuardHome规则存档👉[自定义规则存档](/Rules.txt)
+AdGuardHome规则存档👉[自定义规则存档](/Rules.md)
 
 此外，除了AdGuard和AdGuardHome，还有一个[AdGuardDNS](https://adguard-dns.io/)可以选择
 ___
