@@ -27,7 +27,7 @@
     @@||zhangr88.cn^$important
     @@||oss.mxuo61huwxwwqf1p.admin-console-dv.com^$important
     @@||c2659531-a9d0-4ef2-a013-6939dd9a593f.amf653.com^$important
-    !!!!!!!!!!!!!!!!!!!!!第三方APP
+    !!!!!!!!!!!!!!!!!!!!!第三方APP或网站
     !小米日历订阅服务
     @@||api.comm.miui.com^$important
     !小米设置详细参数
@@ -39,7 +39,6 @@
     !小米应用商店APP图标
     @@||sf0.market.xiaomi.com^$important
     @@||t1.market.xiaomi.com^$important
-    !!!!!!!!!!!!!!!!!!!!!!网站误杀
     !蓝奏云域名
     @@||wwbmr.lanzouw.com^$important
     @@||statics.woozooo.com^$important
@@ -53,6 +52,7 @@
     !爱玩机工具箱仓库
     @@||api.byyang.top^$important
     @@||file.byyang.top^$important
+    @@||res.byyang.top^$important
     !雷神加速器手游加速页面
     @@||opapi1.xxghh.biz^$important
     @@||opapi2.xxghh.biz^$important
