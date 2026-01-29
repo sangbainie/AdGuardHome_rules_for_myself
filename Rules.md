@@ -2,29 +2,6 @@
 
 内容如下，复制粘贴到自定义规则中即可
 
-    !!!!!!!!!!!!!!!!!!!小米系统应用
-    !小米日历订阅服务
-    @@||api.comm.miui.com^$important
-    !小米设置详细参数
-    @@||port.sec.miui.com^$important
-    !小米主题商店
-    @@||thm.market.xiaomi.com^$important
-    !小米智能助理小部件商店
-    @@||store.assistant.miui.com^$important
-    !小米应用商店APP图标
-    @@||sf0.market.xiaomi.com^$important
-    @@||t1.market.xiaomi.com^$important
-    !!!!!!!!!!!!!!!!!!!!!!网站误杀
-    !蓝奏云域名
-    @@||wwbmr.lanzouw.com^$important
-    @@||statics.woozooo.com^$important
-    @@||hm.woozooo.com^$important
-    @@||images.bakstotre.com^$important
-    @@||developer-oss.lanrar.com^$important
-    @@||m306.lanosso.com^$important
-    @@||_446._https.m306.lanosso.com^$important
-    @@||c1018.lanosso.com^$important
-    @@||m805.lanosso.com^$important
     !!!!!!!!!!!!!!!!!!!!!!!!!鸡场
     !番茄.net节点
     @@||v2.alinodecn.com^$important
@@ -51,6 +28,28 @@
     @@||oss.mxuo61huwxwwqf1p.admin-console-dv.com^$important
     @@||c2659531-a9d0-4ef2-a013-6939dd9a593f.amf653.com^$important
     !!!!!!!!!!!!!!!!!!!!!第三方APP
+    !小米日历订阅服务
+    @@||api.comm.miui.com^$important
+    !小米设置详细参数
+    @@||port.sec.miui.com^$important
+    !小米主题商店
+    @@||thm.market.xiaomi.com^$important
+    !小米智能助理小部件商店
+    @@||store.assistant.miui.com^$important
+    !小米应用商店APP图标
+    @@||sf0.market.xiaomi.com^$important
+    @@||t1.market.xiaomi.com^$important
+    !!!!!!!!!!!!!!!!!!!!!!网站误杀
+    !蓝奏云域名
+    @@||wwbmr.lanzouw.com^$important
+    @@||statics.woozooo.com^$important
+    @@||hm.woozooo.com^$important
+    @@||images.bakstotre.com^$important
+    @@||developer-oss.lanrar.com^$important
+    @@||m306.lanosso.com^$important
+    @@||_446._https.m306.lanosso.com^$important
+    @@||c1018.lanosso.com^$important
+    @@||m805.lanosso.com^$important
     !爱玩机工具箱仓库
     @@||api.byyang.top^$important
     @@||file.byyang.top^$important
