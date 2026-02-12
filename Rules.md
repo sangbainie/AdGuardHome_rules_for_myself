@@ -50,9 +50,12 @@
     @@||_446._https.m306.lanosso.com^$important
     @@||c1018.lanosso.com^$important
     @@||m805.lanosso.com^$important
-    !爱玩机工具箱仓库
+    @@||shiduoduomie.lanzout.com^$important
+    @@||m508.lanosso.com^$important
+    !爱玩机工具箱
     @@||api.byyang.top^$important
     @@||file.byyang.top^$important
+    @@||doc.byyoung.top^$important
     @@||res.byyang.top^$important
     !雷神加速器手游加速页面
     @@||opapi1.xxghh.biz^$important
@@ -87,6 +90,10 @@
     @@||appfuwu.189.cn^$important
     @@||w.189.cn^$important
     @@||capp.189.cn^$important
+    !hoyoservice登陆
+    @@||minor-api-os.hoyoverse.com^$important
+    !小米应用商店APP下载节点
+    @@||pfga-accelerate.market.xiaomi.com^$important
     !
 
 ___
