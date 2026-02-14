@@ -94,6 +94,23 @@
     @@||minor-api-os.hoyoverse.com^$important
     !小米应用商店APP下载节点
     @@||pfga-accelerate.market.xiaomi.com^$important
+    !雷神加速器AP登陆P验证码
+    @@||turing.captcha.qcloud.com^$important
+    !高德地图导航信息
+    @@||m5.amap.com^$important
+    !抖音
+    @@||v.douyin.com^$important
+    @@||www.iesdouyin.com^$important
+    @@||z.douyin.com^$important
+    !小米天气主页刷新
+    @@||apilocate.amap.com^$important
+    ！星穹铁道游戏内更新
+    @@||autopatchos.starrails.com^$important
+    !天翼云盘
+    @@||h5.cloud.189.cn^$important
+    @@||open.e.189.cn^$important
+    @@||static.e.189.cn^$important
+    @@||cloud.dlife.cn^$important
     !
 
 ___
